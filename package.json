@@ -3,6 +3,7 @@
 	"author": "Mohd. Paramasvara",
 	"description": "This project will prove that I'm awesome on backend",
 	"keywords": [ "awesome", "developer", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
